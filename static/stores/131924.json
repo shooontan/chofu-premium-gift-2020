@@ -1,0 +1,12 @@
+{
+  "id": "131924",
+  "name": "サンマロー",
+  "category": "飲食店",
+  "address": "〒182-0024 東京都調布市布田1-47-3",
+  "phone": "042-444-5994",
+  "website": "http://www.saint-malo1983.com",
+  "location": {
+    "lat": 35.65188,
+    "lng": 139.545909
+  }
+}

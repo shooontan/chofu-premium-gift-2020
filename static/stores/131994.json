@@ -1,0 +1,12 @@
+{
+  "id": "131994",
+  "name": "SIMPLE SPA",
+  "category": "理容・美容店",
+  "address": "〒182-0012 東京都調布市深大寺東町7-13-32",
+  "phone": "050-1410-3411",
+  "website": "http://simple-spa.com/",
+  "location": {
+    "lat": 35.675423,
+    "lng": 139.562
+  }
+}

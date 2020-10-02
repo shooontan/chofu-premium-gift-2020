@@ -1,0 +1,12 @@
+{
+  "id": "132404",
+  "name": "ベスト電器",
+  "category": "家電販売店",
+  "address": "〒182-0022 東京都調布市国領町8-1-19",
+  "phone": "042-483-5221",
+  "website": "https://www.bestdenki.ne.jp/",
+  "location": {
+    "lat": 35.646491,
+    "lng": 139.562101
+  }
+}

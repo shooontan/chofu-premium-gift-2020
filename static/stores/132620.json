@@ -1,0 +1,12 @@
+{
+  "id": "132620",
+  "name": "大西楽器店",
+  "category": "楽器店",
+  "address": "〒182-0024 東京都調布市布田1-24-4古沢ビル1F",
+  "phone": "042-483-3333",
+  "website": "http://www.ohnishigakki.jp/",
+  "location": {
+    "lat": 35.653261,
+    "lng": 139.546189
+  }
+}

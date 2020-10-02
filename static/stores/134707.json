@@ -1,0 +1,12 @@
+{
+  "id": "134707",
+  "name": "菜つ屋",
+  "category": "飲食店",
+  "address": "〒182-0006 東京都調布市西つつじヶ丘3-30-7ストーンヒル1F",
+  "phone": "042-483-7280",
+  "website": "http://www.ensen-ado.com/natsuya/kamameshi",
+  "location": {
+    "lat": 35.658888,
+    "lng": 139.573923
+  }
+}

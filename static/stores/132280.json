@@ -1,0 +1,12 @@
+{
+  "id": "132280",
+  "name": "TRATTORIA Timo",
+  "category": "飲食店",
+  "address": "〒182-0024 東京都調布市布田3-17-8",
+  "phone": "042-444-2331",
+  "website": "https://trattoriatimo.owst.jp/",
+  "location": {
+    "lat": 35.647476,
+    "lng": 139.546308
+  }
+}

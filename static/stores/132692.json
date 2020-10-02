@@ -1,0 +1,12 @@
+{
+  "id": "132692",
+  "name": "Bistro D’",
+  "category": "飲食店",
+  "address": "〒182-0024 東京都調布市布田3-55-4サニーハイツ１Ｆ",
+  "phone": "042-446-6343",
+  "website": "http://bistro-d.com",
+  "location": {
+    "lat": 35.646629,
+    "lng": 139.55034
+  }
+}

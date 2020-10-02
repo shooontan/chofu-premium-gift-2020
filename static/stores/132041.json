@@ -1,0 +1,12 @@
+{
+  "id": "132041",
+  "name": "Restaurant COZY（レストラン  コージー）",
+  "category": "飲食店",
+  "address": "〒182-0002 東京都調布市仙川町1-8-8",
+  "phone": "03-3300-6588",
+  "website": "https://restaurantcozy.owst.jp/",
+  "location": {
+    "lat": 35.660269,
+    "lng": 139.583615
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "132557",
+  "name": "Harmony Garden",
+  "category": "飲食店",
+  "address": "〒182-0012 東京都調布市深大寺東町7-47-7",
+  "phone": "042-441-1580",
+  "website": "https://harmonygarden.jp/",
+  "location": {
+    "lat": 35.682079,
+    "lng": 139.558303
+  }
+}

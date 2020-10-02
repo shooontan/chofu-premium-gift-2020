@@ -1,0 +1,12 @@
+{
+  "id": "134671",
+  "name": "鯉寿司",
+  "category": "飲食店",
+  "address": "〒182-0007 東京都調布市菊野台2-59-18",
+  "phone": "042-441-5578",
+  "website": "http://www.koisushi.co.jp/shop/cyofu.html",
+  "location": {
+    "lat": 35.649881,
+    "lng": 139.565448
+  }
+}

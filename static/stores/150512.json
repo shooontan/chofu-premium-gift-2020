@@ -1,0 +1,12 @@
+{
+  "id": "150512",
+  "name": "Oggi",
+  "category": "飲食店",
+  "address": "〒182-0002 東京都調布市仙川町1-9-7ヴィックマンションII101",
+  "phone": "03-5969-9090",
+  "website": "http://yusukeitalia.wix.com/yusukecom",
+  "location": {
+    "lat": 35.660319,
+    "lng": 139.584176
+  }
+}

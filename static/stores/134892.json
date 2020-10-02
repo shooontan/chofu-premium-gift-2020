@@ -1,0 +1,12 @@
+{
+  "id": "134892",
+  "name": "cafe AiR",
+  "category": "飲食料品店",
+  "address": "〒182-0007 東京都調布市菊野台2-21-6",
+  "phone": "042-483-2459",
+  "website": "https://cafeair.p-kit.com/",
+  "location": {
+    "lat": 35.653992,
+    "lng": 139.567004
+  }
+}

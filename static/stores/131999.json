@@ -1,0 +1,12 @@
+{
+  "id": "131999",
+  "name": "おむすび cafe&dining micro-cafe",
+  "category": "飲食店",
+  "address": "〒182-0012 東京都調布市深大寺東町2-10-5",
+  "phone": "042-444-3039",
+  "website": "http://www.micro-cafe.com",
+  "location": {
+    "lat": 35.667567,
+    "lng": 139.562114
+  }
+}

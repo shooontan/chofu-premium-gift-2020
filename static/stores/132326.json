@@ -1,0 +1,12 @@
+{
+  "id": "132326",
+  "name": "みっちゃん",
+  "category": "飲食店",
+  "address": "〒182-0001 東京都調布市緑ヶ丘1-10-19-1F",
+  "phone": "000-000-0000",
+  "website": "https://www.facebook.com/modernyaki",
+  "location": {
+    "lat": 35.666399,
+    "lng": 139.582574
+  }
+}

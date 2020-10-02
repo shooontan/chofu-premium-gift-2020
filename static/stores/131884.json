@@ -1,0 +1,12 @@
+{
+  "id": "131884",
+  "name": "Cafe Anmar（カフェ アンマー）",
+  "category": "飲食店",
+  "address": "〒182-0002 東京都調布市仙川町1-9-59-1F",
+  "phone": "070-5553-5366",
+  "website": "https://cafe-anmar.tokyo/",
+  "location": {
+    "lat": 35.660656,
+    "lng": 139.584373
+  }
+}

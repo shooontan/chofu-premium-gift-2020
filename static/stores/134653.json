@@ -1,0 +1,12 @@
+{
+  "id": "134653",
+  "name": "Panta rhei",
+  "category": "飲食店",
+  "address": "〒182-0002 東京都調布市仙川町１-１４-55鈴木ビル1階",
+  "phone": "03-6873-6564",
+  "website": "https://panda-rhei.com/",
+  "location": {
+    "lat": 35.659783,
+    "lng": 139.585331
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "140441",
+  "name": "Le Sancerre",
+  "category": "飲食店",
+  "address": "〒182-0002 東京都調布市仙川町1-19-36",
+  "phone": "03-3307-6477",
+  "website": "https://chofu.com/lesancerre/",
+  "location": {
+    "lat": 35.66247,
+    "lng": 139.585873
+  }
+}

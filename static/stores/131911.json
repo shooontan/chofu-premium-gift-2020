@@ -1,0 +1,12 @@
+{
+  "id": "131911",
+  "name": "あさひ薬局",
+  "category": "ドラッグストア・調剤薬局",
+  "address": "〒182-0022 東京都調布市国領町2-16-5",
+  "phone": "042-443-8631",
+  "website": "http://www.chofu-pa.jp/pharmacy",
+  "location": {
+    "lat": 35.651249,
+    "lng": 139.559819
+  }
+}

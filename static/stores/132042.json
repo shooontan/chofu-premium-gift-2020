@@ -1,0 +1,12 @@
+{
+  "id": "132042",
+  "name": "Cafe & Bar Pallas",
+  "category": "飲食店",
+  "address": "〒182-0026 東京都調布市小島町2-33-1文化会館たづくり1F",
+  "phone": "042-441-7758",
+  "website": "http://www.oceanbluebird.com/",
+  "location": {
+    "lat": 35.650959,
+    "lng": 139.541361
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "134595",
+  "name": "Pizza Presso",
+  "category": "飲食店",
+  "address": "〒182-0036 東京都調布市飛田給1-42-3清水ビル1F",
+  "phone": "042-444-4491",
+  "website": "https://www.pizza-presso.com/",
+  "location": {
+    "lat": 35.660232,
+    "lng": 139.523607
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "132812",
+  "name": "KIKIMARU",
+  "category": "飲食店",
+  "address": "〒182-0024 東京都調布市布田6-41-9上平ハイツ102号",
+  "phone": "042-452-8777",
+  "website": "https://chofu.com/units/36243/kikimaru/",
+  "location": {
+    "lat": 35.646301,
+    "lng": 139.550357
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "132365",
+  "name": "Cafe Kitchen 加菜",
+  "category": "飲食店",
+  "address": "〒182-0022 東京都調布市国領町7-1-2-1F",
+  "phone": "090-8308-0491",
+  "website": "https://chofu.com/units/36243/cafekitchenkana/",
+  "location": {
+    "lat": 35.645161,
+    "lng": 139.557654
+  }
+}

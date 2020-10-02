@@ -1,0 +1,12 @@
+{
+  "id": "132043",
+  "name": "Sky Restaurant Prestige",
+  "category": "飲食店",
+  "address": "〒182-0026 東京都調布市小島町2-33-1文化会館たづくり  12F",
+  "phone": "042-441-2008",
+  "website": "http://www.oceanbluebird.com/",
+  "location": {
+    "lat": 35.650959,
+    "lng": 139.541361
+  }
+}

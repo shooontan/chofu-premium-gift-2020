@@ -1,0 +1,12 @@
+{
+  "id": "140440",
+  "name": "鈴木",
+  "category": "飲食店",
+  "address": "〒182-0024 東京都調布市布田1-50-1マートルコート調布第3A",
+  "phone": "050-3177-4055",
+  "website": "https://sound.jp/chofu4suzuki/",
+  "location": {
+    "lat": 35.65175,
+    "lng": 139.547186
+  }
+}

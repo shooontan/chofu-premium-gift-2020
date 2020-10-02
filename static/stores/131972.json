@@ -1,0 +1,12 @@
+{
+  "id": "131972",
+  "name": "M’s Kitchen",
+  "category": "飲食店",
+  "address": "〒182-0024 東京都調布市布田4-2-7ホテルノービス調布1F",
+  "phone": "042-444-2185",
+  "website": "https://www.facebook.com/mskitchen.chofu",
+  "location": {
+    "lat": 35.65126,
+    "lng": 139.544609
+  }
+}

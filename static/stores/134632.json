@@ -1,0 +1,12 @@
+{
+  "id": "134632",
+  "name": "カフェ大好き",
+  "category": "飲食店",
+  "address": "〒182-0025 東京都調布市多摩川5-7-4京王多摩川88ビル1F",
+  "phone": "042-481-3933",
+  "website": "http://www.tagayasukai.com/html/cafedaisuki_1.html",
+  "location": {
+    "lat": 35.64434,
+    "lng": 139.537202
+  }
+}

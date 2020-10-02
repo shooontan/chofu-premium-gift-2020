@@ -1,0 +1,12 @@
+{
+  "id": "134825",
+  "name": "北京酒家",
+  "category": "飲食店",
+  "address": "〒182-0034 東京都調布市下石原1-8-7",
+  "phone": "042-486-9119",
+  "website": "https://chofu.com/beijing/",
+  "location": {
+    "lat": 35.657538,
+    "lng": 139.535945
+  }
+}

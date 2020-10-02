@@ -1,0 +1,12 @@
+{
+  "id": "134848",
+  "name": "Cafe & Dining RiviEra",
+  "category": "飲食店",
+  "address": "〒182-0002 東京都調布市仙川町1-16-4栗本ビル2F-A",
+  "phone": "03-5969-9568",
+  "website": "https://www.riviera-sengawa.com/",
+  "location": {
+    "lat": 35.660913,
+    "lng": 139.58519
+  }
+}
