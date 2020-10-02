@@ -1,17 +1,4 @@
-import path from 'path';
-import fs from 'fs';
-import getConfig from 'next/config';
 import { ApolloError } from 'apollo-server-micro';
-
-import { Store } from 'src/types/graphql';
-
-const { serverRuntimeConfig } = getConfig();
-
-const storesDir = path.resolve(
-  serverRuntimeConfig.APP_ROOT,
-  'static',
-  'stores'
-);
 
 type Args = {
   storeId: string;
@@ -20,9 +7,7 @@ type Args = {
 export async function store(_parent: unknown, args: Args) {
   const { storeId } = args;
   try {
-    const store: Store = JSON.parse(
-      fs.readFileSync(path.resolve(storesDir, `${storeId}.json`), 'utf8')
-    );
+    const store = (await import(`static/stores/${storeId}.json`)).default;
     return {
       ...store,
       location: {
