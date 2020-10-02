@@ -1,0 +1,13 @@
+overwrite: true
+schema: http://localhost:3000/api/v1/graphql
+documents:
+  - ./components/**/*.{ts,tsx}
+  - ./pages/**/*.{ts,tsx}
+generates:
+  src/types/graphql.tsx:
+    plugins:
+      - typescript
+      - typescript-operations
+    config:
+      namingConvention:
+        enumValues: keep
